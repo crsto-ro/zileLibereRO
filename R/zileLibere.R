@@ -28,8 +28,7 @@ zileLibere <- function(an = 2017)
 
   if (an > 2017)
   {
-    vinereaMare = paste-3
-    zile_libere = c(zile_libere, as.Date(vinereaMare))
+    zile_libere = c(zile_libere, as.Date(paste-3))
   }
 
   return(sort(zile_libere))
