@@ -9,7 +9,6 @@ zileLibere <- function(an = 2017)
     as.Date(paste0(an, "-01-02")),
     as.Date(paste0(an, "-01-24")),
 
-    vinereaMare,
     paste,
     rusalii,
 
